@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Abhay Prince</Authors>
+    <Product>PagedDapper - A Dapper Extension</Product>
+    <PackageTags>Dapper Paging, Paged Dapper, Pagination Dapper, Paging Dapper, Dapper Paged, Dapper Pagination</PackageTags>
+    <PackageProjectUrl>https://github.com/Abhayprince/PagedDapper.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Abhayprince/PagedDapper.git</RepositoryUrl>
+    <RepositoryType>Public</RepositoryType>
+    <Description>PagedDapper - A Dapper Extension for Paging (Pagination Queries)</Description>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dapper" Version="1.60.6" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.5.0" />
+    <PackageReference Include="System.Reflection.Emit" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="License.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
