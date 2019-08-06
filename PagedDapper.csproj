@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Abhay Prince</Authors>
     <Product>PagedDapper - A Dapper Extension</Product>
-    <PackageTags>Dapper Paging, Paged Dapper, Pagination Dapper, Paging Dapper, Dapper Paged, Dapper Pagination</PackageTags>
+    <PackageTags>Dapper Paging, Paged Dapper, Pagination Dapper, Paging-Dapper, Dapper-Paged, Dapper-Pagination</PackageTags>
     <PackageProjectUrl>https://github.com/Abhayprince/PagedDapper.git</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Abhayprince/PagedDapper.git</RepositoryUrl>
     <RepositoryType>Public</RepositoryType>
